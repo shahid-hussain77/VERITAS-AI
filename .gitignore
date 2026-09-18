@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# Runtime data
+workspace/
+*.db
+*.faiss
+*.meta.json
+samples/uploaded/
+uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model cache
+.cache/
+*.pt
+*.bin
+*.h5
+
+# Logs
+*.log

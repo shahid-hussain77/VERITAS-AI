@@ -1,0 +1,23 @@
+Introduction
+
+Artificial intelligence is transforming modern healthcare. Recent studies have demonstrated that machine learning models can outperform human radiologists in detecting certain types of cancer [1].
+
+Machine learning is a subset of AI. It uses statistical methods to learn from data. Deep learning, a further subset, uses neural networks with many layers.
+
+Methodology
+
+We collected 10,000 medical images from three hospitals. Each image was labeled by two independent radiologists. We then trained a convolutional neural network.
+
+Results
+
+Our model achieved 94.2% accuracy on the test set. This is significantly higher than the baseline of 87.1% (Smith et al., 2020).
+
+Conclusion
+
+AI can improve medical diagnosis. However, ethical concerns remain.
+
+References
+
+[1] Smith, J., & Doe, A. (2020). Machine learning in radiology. Journal of Medical AI, 15(3), 123-145.
+
+[2] Brown, K. (2021). Deep learning fundamentals. Nature Reviews, 8(2), 45-67.
