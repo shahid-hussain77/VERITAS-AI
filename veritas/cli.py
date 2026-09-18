@@ -1,4 +1,4 @@
-"""VERITAS-AI CLI."""
+"""PlagioVeritas CLI."""
 from __future__ import annotations
 import json
 import sys
@@ -20,7 +20,7 @@ console = Console()
 @click.group()
 @click.version_option(__version__)
 def cli():
-    """VERITAS-AI — Local Multi-Agent Academic Integrity Engine."""
+    """PlagioVeritas — Local Multi-Agent Academic Integrity Engine."""
     pass
 
 
@@ -40,7 +40,7 @@ def cli():
 def analyze(submitted, source, history, corpus, classroom, output, quiet):
     """Analyze a single submitted document."""
     console.print(Panel.fit(
-        f"[bold green]VERITAS-AI v{__version__}[/bold green]\n"
+        f"[bold green]PlagioVeritas v{__version__}[/bold green]\n"
         f"[dim]Analyzing: {Path(submitted).name}[/dim]",
         border_style="green",
     ))

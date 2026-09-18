@@ -10,7 +10,7 @@ Techniques:
 - Cosine similarity
 - Chunk-level comparison
 
-This is VERITAS-AI's KEY differentiator.
+This is PlagioVeritas's KEY differentiator.
 
 Input:
     context.document_text      → submitted text

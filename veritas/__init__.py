@@ -1,5 +1,5 @@
 """
-VERITAS-AI
+PlagioVeritas
 Local Multi-Agent Academic Integrity & Research Forensics Engine
 
 Tagline: Don't just detect similarity. Show the evidence.

@@ -1,4 +1,4 @@
-"""VERITAS-AI tools."""
+"""PlagioVeritas tools."""
 from veritas.tools.text_utils import (
     split_paragraphs,
     detect_headings,

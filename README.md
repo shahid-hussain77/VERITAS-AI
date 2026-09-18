@@ -2,7 +2,7 @@
 
 
 
-\# 🛡️ VERITAS-AI
+\# 🛡️ PlagioVeritas
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-\## 🎯 What is VERITAS-AI?
+\## 🎯 What is PlagioVeritas?
 
 ## 📸 Screenshots
 
@@ -47,7 +47,7 @@
 ![Evidence](docs/screenshots/03_evidence.png)
 
 
-A \*\*100% local, free, multi-agent\*\* academic integrity analyzer. Unlike traditional checkers that give one "87% plagiarism" score, VERITAS-AI gives \*\*evidence-based findings\*\* with full explanations.
+A \*\*100% local, free, multi-agent\*\* academic integrity analyzer. Unlike traditional checkers that give one "87% plagiarism" score, PlagioVeritas gives \*\*evidence-based findings\*\* with full explanations.
 
 
 
@@ -115,9 +115,9 @@ A \*\*100% local, free, multi-agent\*\* academic integrity analyzer. Unlike trad
 
 ```bash
 
-git clone https://github.com/YOUR\_USERNAME/VERITAS-AI.git
+git clone https://github.com/YOUR\_USERNAME/PlagioVeritas.git
 
-cd VERITAS-AI
+cd PlagioVeritas
 
 python -m venv venv
 

@@ -1,5 +1,5 @@
 """
-VERITAS-AI Configuration
+PlagioVeritas Configuration
 
 Central configuration for the entire system.
 All paths, model names, and thresholds live here.
