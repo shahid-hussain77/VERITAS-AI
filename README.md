@@ -10,6 +10,7 @@
 
 
 
+
 \*\*"Don't just detect similarity. Show the evidence."\*\*
 
 
@@ -34,6 +35,16 @@
 
 \## 🎯 What is VERITAS-AI?
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Report
+![Report](docs/screenshots/02_report.png)
+
+### Evidence Side-by-Side
+![Evidence](docs/screenshots/03_evidence.png)
 
 
 A \*\*100% local, free, multi-agent\*\* academic integrity analyzer. Unlike traditional checkers that give one "87% plagiarism" score, VERITAS-AI gives \*\*evidence-based findings\*\* with full explanations.
